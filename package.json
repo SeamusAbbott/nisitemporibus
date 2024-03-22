@@ -1,0 +1,28 @@
+{
+  "name": "nisitemporibus",
+  "version": "1.0.0",
+  "description": "Preset files to be extended by tsconfig and tslint.json",
+  "files": [
+    "tsconfig.json",
+    "tslint.js",
+    "README.md"
+  ],
+  "scripts": {
+    "release": "np"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SeamusAbbott/nisitemporibus.git"
+  },
+  "keywords": [
+    "typescript",
+    "reprehenderit",
+    "adonisjs"
+  ],
+  "author": "ValentinPouros",
+  "license": "MIT",
+  "homepage": "https://github.com/SeamusAbbott/nisitemporibus.git",
+  "devDependencies": {
+    "np": "^7.0.0"
+  }
+}
